@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @meenag0
+# 👋 Hi, I’m Meena
 Welcome to my GitHub profile!
 
 ## About Me
