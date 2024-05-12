@@ -10,9 +10,10 @@ I'm currently pursuing a BASc in Computer Engineering at the University of Water
 - **Full Stack Development**: Building engaging, scalable, and interactive applications.
 - **Artificial Intelligence & Machine Learning**: Applying deep learning and predictive models.
 - **Environmental Technology**: Using tech to help individuals and organizations reduce their environmental footprint.
+- **Music & Media**: Exploring the intersection of technology and art to create recommender systems and generative art.
 
 ## 🌱 Currently Learning
-- **ML and Neural Networks**: Experimenting with cutting-edge models for NLP, data prediction, etc.
+- **ML and Neural Networks**: Experimenting with models for NLP, data prediction, etc.
 - **Cloud Infrastructure**: Enhancing my skills in Azure and GCP cloud architecture.
 
 ## 💞️ Looking to Collaborate On
