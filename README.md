@@ -1,5 +1,4 @@
 # 👋 Hi, I’m Meena
-Welcome to my GitHub profile!
 
 ## About Me
 🌟 **Passionate Developer** | 🌍 **Global Citizen** | 🎨 **Creative Thinker**
