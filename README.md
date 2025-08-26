@@ -45,11 +45,6 @@ email     → m3gopala@uwaterloo.ca
 
 </div>
 
-music --now-playing
-<div align="center">
-https://spotify-github-profile.vercel.app/api/view?uid=frozencrystal8&redirect=true
-</div>
-
 
 ## `$` **about me**
 ```diff
