@@ -49,9 +49,8 @@ email     → m3gopala@uwaterloo.ca
 ## `$` **about me**
 ```diff
 + i love hiking and everything nature! my dream hike is the annapurna circuit in Nepal... one day :)
-+ i'm studying computer engineering because i took ce and cs in grade 11 and loved it :)
-+ reading + chai <3! (https://www.goodreads.com/user/show/58746578-meena)
-+ my favourite emoji: 😛
++ i'm studying computer engineering because i took ce and cs in grade 11 and loved it!
++ my goodreads: https://www.goodreads.com/user/show/58746578-meena
 + big fan of anthony bourdain and trying new foods and cuisines
 + i am trying to get better at cooking :p
 ```
