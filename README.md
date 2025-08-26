@@ -53,7 +53,7 @@ email     → m3gopala@uwaterloo.ca
 + reading + chai <3! (https://www.goodreads.com/user/show/58746578-meena)
 + my favourite emoji: 😛
 + big fan of anthony bourdain and trying new foods and cuisines
-+ i am NOT good at cooking (but i can bake a good cookie) 
++ i am trying to get better at cooking :p
 ```
 
 ---
