@@ -11,7 +11,7 @@
 ╚═╝     ╚═╝╚══════╝╚══════╝╚═╝  ╚═══╝╚═╝  ╚═╝
 ```
 
-software engineer • computer eng @ uWaterloo 
+**software engineer** • **computer engineering @ uWaterloo**
 
 </div>
 
