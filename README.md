@@ -20,7 +20,7 @@
 ## `$` **status**
 ```bash
 > Online • building cloud-native applications and scalable full-stack solutions; exploring AI/ML integrations
-> Location: ~/dev/innovation
+> Location: ~/dev/learning
 ```
 
 ## **stack --list**
